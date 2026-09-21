@@ -1,1 +1,12 @@
-
+{
+  "server": {
+    "host": "coconutsmp6767.aternos. me",
+    "port": 15490,
+    "version": "26.2"
+  },
+  "bot": {
+    "username": "CoconutBot",
+    "autoReconnect": true,
+    "reconnectDelay": 5000
+  }
+}
